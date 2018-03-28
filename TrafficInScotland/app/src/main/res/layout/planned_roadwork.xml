@@ -1,0 +1,12 @@
+<!-- Declan Gibb - S1345890 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.declan.trafficinscotland.MapActivity" >
+    <ListView
+        android:id="@+id/currentList2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
